@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "672270029467",
+    "project_id": "weraast-religiontopresent",
+    "storage_bucket": "weraast-religiontopresent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672270029467:android:11d6e329be00243f37ec3e",
+        "android_client_info": {
+          "package_name": "com.religiontopresent.inheritance_distribution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672270029467-48du21c0cnp6d40aa6fm6h00ge24ee63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.religiontopresent.inheritance_distribution",
+            "certificate_hash": "1de5ead1a90e1a7b1055309b9760478d54539d4f"
+          }
+        },
+        {
+          "client_id": "672270029467-m0bgb17ftiivm9rhdovl2t8eo88rmrtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHL4HQPKHSfFEKqhvvLyamah4cv2Kg_xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672270029467-m0bgb17ftiivm9rhdovl2t8eo88rmrtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
